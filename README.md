@@ -35,4 +35,4 @@ Please refer to the [report](https://drive.google.com/file/d/14xxliqfKwyodURaeJH
 
 ## License & Acknowledgement
 
-This project is released under the Apache 2.0 license. The codes are based on [normalizing_flows](https://github.com/kamenbliznashki/normalizing_flows), [DIP](https://github.com/DmitryUlyanov/deep-image-prior), [KernelGAN](https://github.com/sefibk/KernelGAN) and [USRNet](https://github.com/cszn/KAIR). Please also follow their licenses. Thanks for their great works.
+The codes are based on [diffusion models](https://github.com/openai/improved-diffusion), [DIP](https://github.com/DmitryUlyanov/deep-image-prior) and [USRNet](https://github.com/cszn/KAIR). Please also follow their licenses. Thanks for their great works.
