@@ -18,7 +18,7 @@ python main.py --SR --sf 4 --dataset Test
 To prepare testing data, please organize images as `data/datasets/DIV2K/HR/0801.png`, and run this command:
 ```bash
 cd data
-python prepare_dataset.py --model DIPDKP --sf 2 --dataset Set5
+python prepare_dataset.py --model DIPDKP --sf 4 --dataset Set5
 ```
 ## DIP-DKP
 
@@ -26,7 +26,7 @@ To test DIP-DKP (no training phase), run this command:
 
 ```bash
 cd DIPDKP
-python main.py --SR --sf 2 --dataset Set5
+python main.py --SR --sf 4 --dataset Set5
 ```
 
 ## Results
