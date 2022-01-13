@@ -20,12 +20,12 @@ To prepare testing data, please organize images as `data/datasets/DIV2K/HR/0801.
 cd data
 python prepare_dataset.py --model DIPDKP --sf 2 --dataset Set5
 ```
-## DIP-FKP
+## DIP-DKP
 
-To test DIP-FKP (no training phase), run this command:
+To test DIP-DKP (no training phase), run this command:
 
 ```bash
-cd DIPFKP
+cd DIPDKP
 python main.py --SR --sf 2 --dataset Set5
 ```
 
