@@ -8,7 +8,7 @@
 ## Quick Run
 To run the code without preparing data, run this command:
 ```bash
-cd DIPFKP
+cd DIPDKP
 python main.py --SR --sf 4 --dataset Test
 ```
 
